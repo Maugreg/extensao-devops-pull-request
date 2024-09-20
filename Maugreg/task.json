@@ -1,9 +1,9 @@
 {
-  "id": "2572887e-809d-43b4-bab7-baaad9c8ec87",
-  "name": "JPCompcombr",
+  "id": "123e4567-e89b-12d3-a456-426614174000",
+  "name": "Maugreg",
   "friendlyName": "Revisao de PullRequest by AzureOpenAI",
   "description": "Esta tarefa usa o modelo AzureOpenAi para revisar PullRequests",
-  "author": "Joao Antunes",
+  "author": "Mauricio Gregorio",
   "helpMarkDown": "[Mais informacoes](https://github.com/jpitapeva/extensao-devops-pull-request)",
   "category": "Utility",
   "visibility": [
@@ -16,7 +16,7 @@
     "Patch": "4"
   },
   "minimumAgentVersion": "1.95.0",
-  "instanceNameFormat": "JPCompcombr $(message)",
+  "instanceNameFormat": "Maugreg $(message)",
   "inputs": [
     {
       "name": "api_key",
