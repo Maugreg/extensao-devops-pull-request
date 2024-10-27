@@ -2,7 +2,7 @@
   "manifestVersion": 1,
   "id": "Maugreg",
   "name": "Maugreg",
-  "version": "27.0.0",
+  "version": "22.0.4",
   "publisher": "Maugreg",
   "galleryFlags": [
     "Public",
@@ -29,7 +29,7 @@
   ],
   "files": [
     {
-      "path": "Maugreg_123e4567-e89b-12d3-a456-426614174000"
+      "path": "JPCompcombr"
     }
   ],
   "repository": {
@@ -43,7 +43,7 @@
   },
   "contributions": [
     {
-      "id": "Maugreg_123e4567-e89b-12d3-a456-426614174000",
+      "id": "Maugreg",
       "type": "ms.vss-distributed-task.task",
       "targets": [
         "ms.vss-distributed-task.tasks"
